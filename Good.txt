@@ -1,0 +1,6 @@
+fd
+sfdg
+dfa
+:wq
+ :wq
+
